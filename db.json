@@ -1,0 +1,97 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "user": "nacho",
+      "fecha": "2022-02-02",
+      "content": "HTML is easy",
+      "important": true,
+      "public": false
+    },
+    {
+      "id": "2",
+      "user": "nacho2",
+      "fecha": "2022-02-02",
+      "content": "Browser can execute only JavaScript",
+      "important": true,
+      "public": false
+    },
+    {
+      "id": "3",
+      "user": "nacho3",
+      "fecha": "2022-02-02",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "public": true,
+      "important": true
+    },
+    {
+      "id": "4",
+      "user": "nacho4",
+      "fecha": "2022-02-02",
+      "content": "pepe",
+      "important": false,
+      "public": true
+    },
+    {
+      "id": "8a21",
+      "content": "pepe",
+      "public": false,
+      "important": false
+    },
+    {
+      "id": "c630",
+      "content": "adf",
+      "date": "2025-03-17T16:50:39.119Z",
+      "public": true,
+      "important": false
+    },
+    {
+      "id": "1235",
+      "content": "as",
+      "user": "Nacho",
+      "date": "2025-03-17T17:43:57.700Z",
+      "public": false,
+      "important": true
+    },
+    {
+      "id": "ac33",
+      "content": "asaf",
+      "user": "Nacho",
+      "fecha": "2025-03-17T17:44:57.719Z",
+      "public": true,
+      "important": false
+    },
+    {
+      "id": "c6e1",
+      "content": "afasfs",
+      "user": "Nacho",
+      "fecha": "2025-03-17T17:45:35.638Z",
+      "public": false,
+      "important": false
+    },
+    {
+      "id": "9138",
+      "content": "fdafaa",
+      "user": "Nacho",
+      "fecha": "2025-03-17T18:03:40.854Z",
+      "public": true,
+      "important": true
+    },
+    {
+      "id": "ef40",
+      "content": "asdfjsafdjksaf",
+      "user": "Nacho",
+      "fecha": "2025-03-17T18:03:54.791Z",
+      "public": false,
+      "important": true
+    },
+    {
+      "id": "c8d6",
+      "content": "Construiremos nuestro backend sobre NodeJS, que es un entorno de ejecución basado en JavaScript y en el motor Chrome V8 de Google.  Este material del curso fue escrito con la versión v20.11.0 de Node.js. Asegúrate de que tu versión de Node sea al menos tan nueva como la versión utilizada en el material (puedes verificar la versión ejecutando node -v en la línea de comando).",
+      "user": "Nacho",
+      "fecha": "2025-03-17T18:04:13.377Z",
+      "public": false,
+      "important": true
+    }
+  ]
+}
